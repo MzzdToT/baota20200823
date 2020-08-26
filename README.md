@@ -2,7 +2,7 @@
 
 usage
 
-#py3 Vulnerabilityscan.py 'filename'
+#python3 Baota20200823.py test.txt
 
 filename为txt文件
-内容格式为IP:888(例test.txt)
+内容格式为IP或者url(例test.txt)
