@@ -6,7 +6,7 @@ filename = sys.argv[1]
 
 url_list=[]
 
-f=open('result2.txt','w')
+f=open('result.txt','w')
 
 
 def main():
