@@ -1,7 +1,6 @@
 import requests
 import sys
 import re
-#py3 Vulnerabilityscan.py 'filename'
 
 filename = sys.argv[1]
 
